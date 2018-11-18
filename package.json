@@ -1,0 +1,26 @@
+{
+  "name": "nginx-study",
+  "version": "1.0.0",
+  "description": "Nginx study's source code & notes",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxinqiong/nginx-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuxinqiong/nginx-study/issues"
+  },
+  "homepage": "https://github.com/liuxinqiong/nginx-study#readme",
+  "dependencies": {
+    "ws": "^6.1.0",
+    "wscat": "^2.2.1"
+  }
+}
